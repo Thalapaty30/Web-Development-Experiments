@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Frameset</title>
+</head>
+<frameset rows="50%, 50%">
+<frame src="table exp 8.html" />
+<frameset cols="40% , 60%" >
+<frame src="bigsmall.html"/>
+<frame src="formulatable.html"/>
+
+<body>
+<iframe src="bigsmall.html" height=100 width=100>
+<h1> FrameSet </h1>
+</body>
+
+</frameset>
+</html> 

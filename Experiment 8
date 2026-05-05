@@ -1,0 +1,91 @@
+<html>
+<head>
+<title> Grocery bill Table </title>
+</head>
+<body>
+<table border="4" style="align:center;">
+<caption> <mark>Grocery Bill</mark> </caption>
+<tr>
+<th>Sr.No</th>
+<th>Item</th>
+<th>Qty</th>
+<th>Price</th>
+</tr>
+
+<tr bgcolor="red">
+<td>1</td>
+<th>Sugar</th>
+<td>5</td>
+<td>1000</td>
+</tr> 
+
+<tr bgcolor="orange">
+<td>2</td>
+<th>Salt</th>
+<td>1</td>
+<td>1000</td>
+</tr> 
+
+<tr bgcolor="green">
+<td>3</td>
+<th>Rice</th>
+<td>6</td>
+<td>6000</td>
+</tr> 
+
+<tr bgcolor="blue">
+<td>4</td>
+<th>Wheat</th>
+<td>2</td>
+<td>2000</td>
+</tr> 
+
+<tr bgcolor="violet">
+<td>5</td>
+<th>Peanut</th>
+<td>3</td>
+<td>3000</td>
+</tr> 
+
+<tr bgcolor="gray">
+<td>6</td>
+<th>RIN</th>
+<td>4</td>
+<td>4000</td>
+</tr> 
+
+<tr bgcolor="pink">
+<td>7</td>
+<th>Vim</th>
+<td>5</td>
+<td>2000</td>
+</tr>
+
+<tr bgcolor="yellow">
+<td>8</td>
+<th>Soda</th>
+<td>3</td>
+<td>1000</td>
+</tr>
+
+<tr bgcolor="brown">
+<td>9</td>
+<th>Soaps</th>
+<td>5</td>
+<td>2000</td>
+</tr>
+
+<tr bgcolor="skyblue">
+<td>10</td>
+<th>Shampoo</th>
+<td>10</td>
+<td>1000</td>
+</tr>
+
+<tr>
+<td colspan=3>Total</td>
+<td>23000/-</td>
+</tr>
+</table>
+</body>
+</html>

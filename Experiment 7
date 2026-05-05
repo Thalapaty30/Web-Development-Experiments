@@ -1,0 +1,21 @@
+<html>
+<head>
+<title> Experiment 7 </title>
+</head>
+<body>
+<h1> D.Y Patil College of Engineering & Technology Kolhapur </h1>
+<img src="dypcet.jpg">
+<a href="https://coek.dypgroup.edu.in/">dypcet</a>
+<h1>All Branches</h1>
+<h2> Computer Science Engineering </h2>
+<img src="cse.jpg">
+<a href="https://coek.dypgroup.edu.in/departments/computer-science-engineering">cse</a>
+<h2> Artificial Intelligence & Machine Learning </h2>
+<img src="aiml.jpg">
+<a href="https://coek.dypgroup.edu.in/departments/cse-ai-ml">aiml</a>
+<h2> Data Science </h2>
+<img src="ds.jpg">
+<a href="https://coek.dypgroup.edu.in/departments/cse-data-science">datascience</a>
+
+</body>
+</html>

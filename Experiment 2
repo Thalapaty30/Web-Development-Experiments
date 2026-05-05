@@ -1,0 +1,55 @@
+<html>
+<head>
+<title> DYPCET </title>
+<style>
+body {
+    background-color: #8CF0FA;
+    font-family: rockwell;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    color: #53039C;
+    margin-left: 20px;
+}
+
+h3 {
+    margin-left: 20px;
+}
+
+a {
+    color: purple;
+}
+img {
+    display: block;
+    margin: 10px 20px 30px 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px gray;
+}
+</style>
+</head>
+<body>
+<h1> D.Y Patil College of Engineering and Technology Kolhapur </h1>
+<img src="dypcet.jpg">
+<h2><u> All Branches in DYPCET</u> </h2>
+<h3> Computer Science Engineering </h3>
+<img src="cse.jpg">
+<h3> Artificial Engineering & Machine Learning </h3>
+<img src="aiml.jpg">
+<h3> Data Science </h3>
+<img src="ds.jpg">
+<h3> Electronics & Telecommunication </h3>
+<img src="entc.jpg">
+<h3> Civil Engineering </h3>
+<img src="civil.jpg">
+<h3> Chemical Engineering </h3>
+<img src="chemical.jpg">
+<h3> Mechanical Engineering </h3>
+<img src="mechanical.jpg">
+</html>

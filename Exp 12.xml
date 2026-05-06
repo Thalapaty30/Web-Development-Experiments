@@ -2,21 +2,21 @@
 <?xml-stylesheet type = "text/xsl" href = "Exp 12.xsl"?>
 <class> 
    <student rollno = "113">
-      <firstname>Sam</firstname>  
-      <lastname>Chavan</lastname> 
-      <nickname>Samu</nickname> 
+      <firstname>Sneha</firstname>  
+      <lastname>Shegane</lastname> 
+      <nickname>Megha</nickname> 
       <marks>85</marks>
    </student> 
    <student rollno = "112"> 
-      <firstname>Pranoti</firstname> 
+      <firstname>Pranali</firstname> 
       <lastname>Gupta</lastname> 
       <nickname>Pannu</nickname> 
       <marks>95</marks>
    </student>
    <student rollno = "111"> 
-   <firstname>Aditya</firstname> 
+   <firstname>Abhiraj</firstname> 
     <lastname>Singh</lastname> 
-    <nickname>Adi</nickname> 
+    <nickname>Abhi</nickname> 
     <marks>90</marks> 
    </student> 
 </class>

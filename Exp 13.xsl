@@ -11,7 +11,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <h2>Student Result</h2>
 
 <table border="1">
-<tr>
+<tr bgcolor= "#421B5E">
     <th>Name</th>
     <th>Marks</th>
     <th>Result</th>

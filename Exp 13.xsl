@@ -11,7 +11,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <h2>Student Result</h2>
 
 <table border="1">
-<tr bgcolor= "#421B5E">
+<tr bgcolor= "pink">
     <th>Name</th>
     <th>Marks</th>
     <th>Result</th>
@@ -19,7 +19,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:for-each select="class/student">
 
-<tr bgcolor= "pink">
+<tr bgcolor= "red">
     <td><xsl:value-of select="name"/></td>
     <td><xsl:value-of select="marks"/></td>
 

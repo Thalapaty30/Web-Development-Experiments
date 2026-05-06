@@ -19,7 +19,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:for-each select="class/student">
 
-<tr bgcolor="blue" >
+<tr bgcolor="blue">
     <td><xsl:value-of select="name"/></td>
     <td><xsl:value-of select="marks"/></td>
 
